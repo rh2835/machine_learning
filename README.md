@@ -7,6 +7,5 @@ This repository contains machine learning projects completed by using advanced P
 * Support Vector Machines
 * K Means Clustering
 * Principal Component Analysis
-* Natural Language Processing
 * Recommender Systems
 
